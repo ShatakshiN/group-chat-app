@@ -2,10 +2,10 @@
   "name": "webdevelopment",
   "version": "1.0.0",
   "description": "complete node.js guide",
-  "main": "nodemon groupchatapp.js",
+  "main": "nodemon basic group chat app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon groupchatapp.js"
+    "start": "nodemon basic group chat app.js"
   },
   "author": "shatakshi",
   "license": "ISC",
