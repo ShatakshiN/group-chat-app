@@ -1,1 +1,2 @@
-# group-chat-app
+# group-chat-app with controllers
+
