@@ -1,2 +1,2 @@
-# group-chat-app with controllers
+# group-chat-app modelled as MVC
 
